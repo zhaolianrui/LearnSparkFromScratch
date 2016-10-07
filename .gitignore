@@ -92,4 +92,5 @@ ENV/
 datasets/apache.access.log.PROJECT
 resources/namesAndFavColors.parquet
 resources/namesAndAges.parquet
+resources/people.parquet
 
