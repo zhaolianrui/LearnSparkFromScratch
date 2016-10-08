@@ -94,3 +94,6 @@ resources/namesAndFavColors.parquet
 resources/namesAndAges.parquet
 resources/people.parquet
 metastore_db/
+
+#resources
+resources/peoplePartitionBy.parquet/
