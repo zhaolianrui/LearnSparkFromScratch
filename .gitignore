@@ -97,3 +97,6 @@ metastore_db/
 
 #resources
 resources/peoplePartitionBy.parquet/
+
+#data
+data/test_table/
