@@ -100,3 +100,6 @@ resources/peoplePartitionBy.parquet/
 
 #data
 data/test_table/
+
+#spark-warehouse
+spark-warehouse/
